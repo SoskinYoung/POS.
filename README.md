@@ -1,5 +1,7 @@
-# POS.
 
+
+# POS.
+# Alexandr Šoška
 # Cisco Packet Tracer – LAN síť
 
 ## Výpočet X a Y
