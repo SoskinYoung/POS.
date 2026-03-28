@@ -25,8 +25,8 @@ Maska: 255.255.248.0
 
 ## Topologie
 
-* PC1, PC2 připojeny na S1
-* PC3, PC4 připojeny na S2
+* PC0, PC1 připojeny na S1
+* PC2, PC3 připojeny na S2
 * S1 a S2 propojeny
 
 ---
@@ -49,5 +49,5 @@ Ping z PC0 na PC3 byl úspěšný.
 ## Screenshoty
 
 * Nastavení switchů (Laptop)
-* IP konfigurace PC1
-* Ping z PC1 na PC4
+* IP konfigurace PC0
+* Ping z PC0 na PC3
