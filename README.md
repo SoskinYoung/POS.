@@ -33,16 +33,16 @@ Maska: 255.255.248.0
 
 ## IP adresace
 
-* PC1: 10.1.0.1
-* PC2: 10.1.0.2
-* PC3: 10.1.0.3
-* PC4: 10.1.0.4
+* PC0: 10.1.0.1
+* PC1: 10.1.0.2
+* PC2: 10.1.0.3
+* PC3: 10.1.0.4
 
 ---
 
 ## Test konektivity
 
-Ping z PC1 na PC4 byl úspěšný.
+Ping z PC0 na PC3 byl úspěšný.
 
 ---
 
