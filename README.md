@@ -46,9 +46,5 @@ Ping z PC0 na PC3 byl úspěšný.
 
 ---
 
-## Screenshoty
-
-* Nastavení switchů (Laptop)
-* IP konfigurace PC0
-* Ping z PC0 na PC3
+## Screenshot
 <img width="597" height="343" alt="image" src="https://github.com/user-attachments/assets/3f2248c3-fe9a-4d6d-aca8-5c45cbaa6999" />
