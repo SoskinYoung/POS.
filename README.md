@@ -48,3 +48,4 @@ Ping z PC0 na PC3 byl úspěšný.
 
 ## Screenshot
 <img width="597" height="343" alt="image" src="https://github.com/user-attachments/assets/3f2248c3-fe9a-4d6d-aca8-5c45cbaa6999" />
+<img width="535" height="277" alt="image" src="https://github.com/user-attachments/assets/1a1a1e13-a300-4351-a0d8-fde0b2ffad0f" />
